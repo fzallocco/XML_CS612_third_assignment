@@ -1,0 +1,8 @@
+<!DOCTYPE menu [
+
+<!ELEMENT movie (title,format,genre,director)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT format (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+]>
