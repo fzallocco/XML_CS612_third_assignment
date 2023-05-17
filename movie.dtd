@@ -1,0 +1,7 @@
+<!ELEMENT menu (movie+)>
+<!ELEMENT movie (title, format, genre, director)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT format (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ATTLIST movie id CDATA #REQUIRED>

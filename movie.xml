@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document describes a movie theater's menu-->
+<!DOCTYPE menu SYSTEM "movie.dtd">
+<menu>
+	<movie id="1">
+		<title>Halloween</title>
+		<format>standard</format>
+		<genre>horror</genre>
+		<director>David Gordon Green</director>
+	</movie>
+	<movie id="2">
+		<title>Shazam</title>
+		<format>4K</format>
+		<genre>sci-fi</genre>
+		<director>David Sandberg</director>
+	</movie>
+	<movie id="3">
+		<title>Jesus Revolution</title>
+		<format>standard</format>
+		<genre>drama</genre>
+		<director>McCorkle, Erwin</director>
+	</movie>
+	<movie id="4">
+		<title>A Good Person</title>
+		<format>standard</format>
+		<genre>drama</genre>
+		<director>Zach Braff</director>
+	</movie>
+</menu>
